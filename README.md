@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LinkCFF
 - 👀 I’m interested in python, arduino and anything
-- 🌱 I’m currently learning algorithms and studying in UNAL
+- 🌱 I’m currently learning html,css,react and studying in UNAL
 
 
 <!---
